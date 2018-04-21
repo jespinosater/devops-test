@@ -15,5 +15,5 @@
 # .tfvars files
 *.tfvars
 
-
+ssh/
 # End of https://www.gitignore.io/api/ansible,terraform
